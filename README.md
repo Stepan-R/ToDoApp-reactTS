@@ -1,6 +1,7 @@
-Link - will be here
+[DEMO-LINK] - (https://stepan-r.github.io/ToDoApp-reactTS/)
 
-# Overview: The React Todo App is a single-page application designed to help users manage their tasks efficiently. It allows users to create, read, update, and delete todo items, providing a seamless and interactive experience. The application leverages an external API for data management, ensuring that user data is persistent and can be accessed across sessions.
+# Overview: 
+  The React Todo App is a single-page application designed to help users manage their tasks efficiently. It allows users to create, read, update, and delete todo items, providing a seamless and interactive experience. The application leverages an external API for data management, ensuring that user data is persistent and can be accessed across sessions.
 
 ## Technologies Used:
 
